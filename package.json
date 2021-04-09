@@ -1,0 +1,22 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "main": "cript.js",
+  "scripts": {
+    "json": "json-server db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chico-rso/Chico-rso.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chico-rso/Chico-rso/issues"
+  },
+  "homepage": "https://github.com/Chico-rso/Chico-rso#readme",
+  "description": "",
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
+}
